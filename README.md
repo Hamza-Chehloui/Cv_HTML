@@ -1,1 +1,1 @@
-- <a href="https://hamza-chehloui.github.io/githup_test/">cv_html</a>
+- <a href="https://hamza-chehloui.github.io/Cv_HTML/">cv_html</a>
